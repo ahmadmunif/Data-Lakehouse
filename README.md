@@ -18,7 +18,6 @@ Sumber data dapat berasal dari:
 * Core Banking
 * Mobile Banking
 * Internet Banking
-* BI-FAST
 * ATM
 * CRM
 * Database
