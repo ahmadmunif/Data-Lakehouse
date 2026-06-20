@@ -1,12 +1,6 @@
 # Lake-House
 <img width="1672" height="941" alt="lakehouse-image" src="https://github.com/user-attachments/assets/3f7bbf6d-ba58-4f56-acef-ace64d034d3a" />
 
-Menurut saya, untuk presentasi ke manajemen atau tim arsitektur, narasi sebaiknya tidak hanya menjelaskan fungsi masing-masing komponen, tetapi juga **menceritakan perjalanan data (data journey)** dari awal hingga menjadi informasi yang siap digunakan. Dengan begitu audiens lebih mudah memahami mengapa setiap komponen diperlukan.
-
-Berikut narasi yang saya rekomendasikan.
-
----
-
 # Arsitektur Lakehouse
 
 Arsitektur Lakehouse merupakan platform data modern yang mengintegrasikan proses **ingestion**, **penyimpanan**, **manajemen metadata**, dan **analitik** ke dalam satu ekosistem yang terintegrasi. Pendekatan ini memungkinkan organisasi menyimpan seluruh jenis data dalam satu repositori terpusat tanpa harus melakukan duplikasi data ke berbagai sistem analitik.
